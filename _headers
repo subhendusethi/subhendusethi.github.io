@@ -62,6 +62,15 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-4bf91a4cb013676e95dd.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/closure-snake
+  Link: </webpack-runtime-35b3c3c2e7d6a54493f0.js>; rel=preload; as=script
+  Link: </framework-81279cacaab4bdba7685.js>; rel=preload; as=script
+  Link: </app-83fd1a44f1085039d289.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-1edf2aa23226531a3c0c.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-1db657fac24d455e9d80.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/closure-snake/page-data.json>; rel=preload; as=fetch; crossorigin
 /chicken-or-egg
   Link: </webpack-runtime-35b3c3c2e7d6a54493f0.js>; rel=preload; as=script
   Link: </framework-81279cacaab4bdba7685.js>; rel=preload; as=script
@@ -98,6 +107,24 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-1210470524766b5ad97f.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/philosophy/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/python
+  Link: </webpack-runtime-35b3c3c2e7d6a54493f0.js>; rel=preload; as=script
+  Link: </framework-81279cacaab4bdba7685.js>; rel=preload; as=script
+  Link: </app-83fd1a44f1085039d289.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-1edf2aa23226531a3c0c.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-1210470524766b5ad97f.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/python/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/🐍
+  Link: </webpack-runtime-35b3c3c2e7d6a54493f0.js>; rel=preload; as=script
+  Link: </framework-81279cacaab4bdba7685.js>; rel=preload; as=script
+  Link: </app-83fd1a44f1085039d289.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-1edf2aa23226531a3c0c.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-1210470524766b5ad97f.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/🐍/page-data.json>; rel=preload; as=fetch; crossorigin
 /offline-plugin-app-shell-fallback/
   Link: </webpack-runtime-35b3c3c2e7d6a54493f0.js>; rel=preload; as=script
   Link: </framework-81279cacaab4bdba7685.js>; rel=preload; as=script
